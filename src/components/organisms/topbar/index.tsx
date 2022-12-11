@@ -72,7 +72,7 @@ const Topbar: React.FC = () => {
               <div className="cursor-pointer w-full h-full">
                 <Avatar
                   user={{ first_name, last_name, email }}
-                  color="bg-fuschia-40"
+                  color="bg-[#e74803]"
                 />
               </div>
             </DropdownMenu.Trigger>
